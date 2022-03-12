@@ -21,3 +21,5 @@ plt.plot(x,usl,label = "Upload Speed")
 plt.title("Speed")
 plt.lengend()
 plt.show()
+
+#to be honest I have no idea if this works or not, spyder always crashes when I run the program. Yea sorry. -Leo
